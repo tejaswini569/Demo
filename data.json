@@ -3,5 +3,26 @@
     "name":"teja subramanyam",
     "label":"student",
     "email":"tejasubramanyam12@gmail.com"
-  }
+  },
+  "career":{
+    "info":"To ensue a highly profitable career, seeking for a challenging job and healthy work environment where I can utilize my skills, experience and knowledge efficiently for organizational goal."
+  },
+  "education":[
+    {
+      "degree":"b-tech(cse)",
+      "institute":"pvpsit",
+      "data":["2016-2020","90%"]
+    },
+      {
+        "degree":"inter(mpc)",
+        "institute":"narayana",
+        "data":["2013-2015","94%"]
+      },
+              {
+          "degree":"ssc",
+          "institute":"rbps",
+          "data":["2014","98%"]
+        }
+
+  ]
 }
