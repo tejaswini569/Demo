@@ -39,3 +39,4 @@ eduTable.border="1";
 var tr1="<tr><td>Degree</td><td>institute</td><td>data</td></td>"
 eduTable.innerHTML=tr1;
 child2.appendChild(eduTable);
+}
